@@ -25,11 +25,11 @@ documentation:
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
-      See Figure 4a in https://eprint.iacr.org/2021/1574.pdf
+      See Figure 4a in [https://eprint.iacr.org/2021/1574.pdf](https://eprint.iacr.org/2021/1574.pdf)
 
 # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
   how_to_test:  |
-      See Section 3.2 and Table 4 in https://eprint.iacr.org/2021/1574.pdf
+      See Section 3.2 and Table 4 in [https://eprint.iacr.org/2021/1574.pdf](https://eprint.iacr.org/2021/1574.pdf)
 
 # A description of what the inputs do
   inputs:               
