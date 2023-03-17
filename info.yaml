@@ -19,9 +19,9 @@ yaml_version: 3.0
 # Here is a great example: https://github.com/davidsiaw/tt02-davidsiaw-stackcalc/blob/38c5647f83aad2aec675d566aa3d67b98f0aac81/info.yaml
 documentation: 
   author:       "Fabio Campos"      # Your name
-  title:        "Ascon's 5-bit 5-bit"      # Project title
+  title:        "Ascon's 5-bit S-box"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
-  description:  "Ascon's 5-bit 5-bit"      # Short description of what your project does
+  description:  "Ascon's 5-bit S-box"      # Short description of what your project does
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
